@@ -1,0 +1,1 @@
+Teremos um documento de funcionamento da ferramenta e um guia para desenvolvedores :)
