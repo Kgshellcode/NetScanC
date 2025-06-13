@@ -5,3 +5,7 @@
 - DOCS/: Documentação e diagramas
 - MAKEFILE: Sript de biuld
 - README: 
+
+
+# Dia 1
+- Criação de branch de projeto
